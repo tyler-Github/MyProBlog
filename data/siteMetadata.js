@@ -7,7 +7,7 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://blog.yasifys.tk',
   siteRepo: 'https://github.com/tyler-Github/MyProBlog',
-  siteLogo: '/static/images/LogoNew.png',
+  siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'address@yoursite.com',
