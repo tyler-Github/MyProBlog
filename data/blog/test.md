@@ -1,9 +1,13 @@
 ---
-title: Welcome to Yasifys!
+title: 'Welcome to Yasifys!'
 date: '2022-10-10'
+lastmod: '2022-11-10'
 tags: ['Introduction']
 draft: false
-summary: Introduction to the Yasifys Blog!
+summary: 'Introduction to the Yasifys Blog!'
+images: ['/static/images/canada/mountains.jpg', '/static/images/canada/toronto.jpg']
+authors: ['default']
+layout: PostLayout
 ---
 
 Welcome to Yasifys!
