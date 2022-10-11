@@ -1,6 +1,6 @@
 ---
 name: RollViral
-avatar: /static/images/avatar.png
+avatar: /static/images/RollViral.png
 occupation: Being pro
 company: Pro Industry 
 email: rollviral@blogifys.tk
