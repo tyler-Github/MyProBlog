@@ -5,7 +5,8 @@ import siteMetadata from '@/data/siteMetadata'
 export default function FourZeroFour() {
   return (
     <>
-     google-site-verification: google7601585b43400bf4.html
+      <PageSEO title={`SEO ${siteMetadata.title}`} />
+      <div>google-site-verification: google7601585b43400bf4.html</div>
     </>
   )
 }
