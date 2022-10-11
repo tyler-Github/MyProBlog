@@ -13,6 +13,7 @@ const CommonSEO = ({ title, description, ogType, ogImage, twImage, canonicalUrl 
       <meta property="og:type" content={ogType} />
       <meta property="og:site_name" content={siteMetadata.title} />
       <meta property="og:description" content={description} />
+      <meta name="google-site-verification" content="EO7yA2E_SjQDtA2tX0qZkN0jZovxrIXjrhOuwZSzn1c" />
       <meta property="og:title" content={title} />
       {ogImage.constructor.name === 'Array' ? (
         ogImage.map(({ url }) => <meta property="og:image" content={url} key={url} />)
