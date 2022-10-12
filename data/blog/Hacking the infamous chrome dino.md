@@ -17,6 +17,10 @@ Before you can hack the dino, you need to first access it. You can do that by di
 Opening the console
 To hack dino you need to open developer tools and from there access the console. Because every hack i'll show you is only accessible through the console. You can access the console by either right clicking and clicking on "Inspect" or by pressing Ctrl + Shift + I (F12).
 
+```
+![ocean](/static/images/ConsoleDinoChrome.png)
+```
+
 blog open console.png
 Setting the speed of the dino
 Finally you are ready to hack the dino! To make the dino faster just paste this code into the console: 
