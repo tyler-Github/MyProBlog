@@ -1,7 +1,7 @@
 ---
 title: 'Imperial Royal Guards'
-date: '2022-12-10'
-lastmod: '2022-12-10'
+date: '2022-10-12'
+lastmod: '2022-10-12'
 tags: ['Star Wars', 'RollViral']
 draft: false
 summary: 'What are the Imperial Royal Guards?'
