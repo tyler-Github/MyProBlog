@@ -35,7 +35,7 @@ Now you are immortal! To get back and be able to lose and save the score we need
 Setting the score
 Your dino is now immortal and fast, but you want to get your score higher. What do you do?
 
-You set the score! To set the score you need this code: <pre><code><pre><code>Runner.instance_.distanceRan = 12345 / Runner.instance_.distanceMeter.config.COEFFICIENT</pre></code>
+You set the score! To set the score you need this code: <pre><code>Runner.instance_.distanceRan = 12345 / Runner.instance_.distanceMeter.config.COEFFICIENT</pre></code>
 
 You can set the score to any number that is less than 99999.
 
