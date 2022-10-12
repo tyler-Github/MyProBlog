@@ -30,19 +30,19 @@ First we need to save the original gameOver function to a variable: var original
 
 And then we need to make the gameOver function empty: <pre><code>Runner.prototype.gameOver = function(){}</pre></code>
 
-Now you are immortal! To get back and be able to lose and save the score we need to load back the gameOver function from the variable: <pre><code>Runner.prototype.gameOver = original</pre></code>
+Now you are immortal! To get back and be able to lose and save the score we need to load back the gameOver function from the variable: Runner.prototype.gameOver = original
 
 Setting the score
 Your dino is now immortal and fast, but you want to get your score higher. What do you do?
 
-You set the score! To set the score you need this code: <pre><code>Runner.instance_.distanceRan = 12345 / Runner.instance_.distanceMeter.config.COEFFICIENT</pre></code>
+You set the score! To set the score you need this code: Runner.instance_.distanceRan = 12345 / Runner.instance_.distanceMeter.config.COEFFICIENT
 
 You can set the score to any number that is less than 99999.
 
 Changing the jump height
 Now you have the biggest high score you can get. Now let's have some fun :D
 
-The code: <pre><code>Runner.instance_.tRex.setJumpVelocity(10)</pre></code>
+The code: Runner.instance_.tRex.setJumpVelocity(10)
 
 The camera isn't moving up and down. So if you set the number to high, it will fly in the air for some time and you will see nothing...
 
