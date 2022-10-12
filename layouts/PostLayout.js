@@ -92,7 +92,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   {'Discuss on Twitter'}
                 </Link>
                 {` • `}
-                {authorDetails.map((author) => (
+                authorDetails.map((author) => (
                 <Link href={`/authors/${author.name}`}>{'View Authors'}</Link>
                 )}
               </div>
