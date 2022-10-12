@@ -28,7 +28,7 @@ Yes, you heard it right! You can make the dino immortal!
 
 First we need to save the original gameOver function to a variable: var original = Runner.prototype.gameOver
 
-And then we need to make the gameOver function empty: <pre><code>Runner.prototype.gameOver = function(){}</pre></code>
+And then we need to make the gameOver function empty: Runner.prototype.gameOver = function(){}
 
 Now you are immortal! To get back and be able to lose and save the score we need to load back the gameOver function from the variable: Runner.prototype.gameOver = original
 
