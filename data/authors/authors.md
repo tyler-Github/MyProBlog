@@ -9,7 +9,7 @@ linkedin:
 github: 
 ---
 
-[HeyJKSN](http://blog.yasifys.tk/authors/heyjksn)
+[HeyJKSN](http://blog.yasifys.tk/author/heyjksn)
 
 
-[RollViral](http://blog.yasifys.tk/authors/rollviral)
+[RollViral](http://blog.yasifys.tk/author/rollviral)
