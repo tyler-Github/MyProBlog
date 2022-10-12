@@ -11,6 +11,7 @@ const siteMetadata = require('../data/siteMetadata')
     'pages/*.tsx',
     'data/blog/**/*.mdx',
     'data/blog/**/*.md',
+    'public/author/**/*.js'
     'public/tags/**/*.xml',
     '!pages/_*.js',
     '!pages/_*.tsx',
