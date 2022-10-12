@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Yasifys | Blog',
   author: 'RollViral',
   headerTitle: 'Yasifys',
-  description: 'RollVirals pro blog!',
+  description: 'Welcome to Yasifys',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://blog.yasifys.tk',
