@@ -18,7 +18,7 @@ Opening the console
 To hack dino you need to open developer tools and from there access the console. Because every hack i'll show you is only accessible through the console. You can access the console by either right clicking and clicking on "Inspect" or by pressing Ctrl + Shift + I (F12).
 
 
-![DinoImage](/static/images/ConsoleDinoChrome.png)
+![ConsoleDinoChrome](/static/images/ConsoleDinoChrome.png)
 
 
 blog open console.png
