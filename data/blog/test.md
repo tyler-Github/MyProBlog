@@ -7,7 +7,6 @@ draft: false
 summary: 'Introduction to the Yasifys Blog!'
 images: ['/static/images/ocean.jpg']
 authors: ['default']
-layout: PostLayout
 ---
 
 Welcome to Yasifys!
