@@ -17,7 +17,7 @@ const discussUrl = (slug) =>
 const postDateTemplate = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
 
 export default function PostLayout({ frontMatter, authorDetails, next, prev, children }) {
-  const { slug, fileName, date, title, images, tags } = frontMatter
+  const { slug, fileName, date, title, images, tags, author } = frontMatter
 
   return (
     <SectionContainer>
@@ -92,11 +92,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   {'Discuss on Twitter'}
                 </Link>
                 {` • `}
-                <div>
-                {authorDetails.map((author) => (
                 <Link href={`/authors/${author.name}`}>{'View Authors'}</Link>
-                )}
-                </div>
               </div>
               <Comments frontMatter={frontMatter} />
             </div>
