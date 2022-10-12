@@ -1,6 +1,6 @@
 ---
 name: Authors
-avatar: /static/images/
+avatar: /data/logo.svg
 occupation: 
 company:
 email:
