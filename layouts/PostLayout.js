@@ -92,7 +92,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   {'Discuss on Twitter'}
                 </Link>
                 {` • `}
-                <Link href="https://blog.yasifys.tk/author/"{author.name}>{'View Author'}</Link>
+                <Link href={`/author/${author.name}`}{'View Author'}</Link>
               </div>
               <Comments frontMatter={frontMatter} />
             </div>
