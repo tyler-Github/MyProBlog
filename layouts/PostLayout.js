@@ -92,10 +92,11 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   {'Discuss on Twitter'}
                 </Link>
                 {` • `}
-                authorDetails={authorDetails}
-                authorDetails.map((author) => (
+                <div>
+                {authorDetails.map((author) => (
                 <Link href={`/authors/${author.name}`}>{'View Authors'}</Link>
                 )}
+                </div>
               </div>
               <Comments frontMatter={frontMatter} />
             </div>
