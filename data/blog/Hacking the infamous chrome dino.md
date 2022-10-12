@@ -21,7 +21,6 @@ To hack dino you need to open developer tools and from there access the console.
 ![ConsoleDinoChrome](/static/images/ConsoleDinoChrome.png)
 
 
-blog open console.png
 Setting the speed of the dino
 Finally you are ready to hack the dino! To make the dino faster just paste this code into the console: 
 
