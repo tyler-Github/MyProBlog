@@ -72,7 +72,3 @@ Runner.instance_.tRex.setJumpVelocity(10)
 ```
 
 The camera isn't moving up and down. So if you set the number to high, it will fly in the air for some time and you will see nothing...
-
-<figure class="video_container">
-  <iframe width="90%" height="500px" src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
