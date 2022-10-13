@@ -12,7 +12,7 @@ authors: ['default']
 You might have already heard of the chrome dino. It's a simple game about a dino jumping over cacti. And in this blog I will show you how to hack it.
 
 How to access the dino
-Before you can hack the dino, you need to first access it. You can do that by disconnecting from the wifi. Or you can just type [chrome://dino](chrome://dino) into the search bar of chrome.
+Before you can hack the dino, you need to first access it. You can do that by disconnecting from the wifi. Or you can just type <chrome://dino> into the search bar of chrome.
 
 Opening the console
 To hack dino you need to open developer tools and from there access the console. Because every hack i'll show you is only accessible through the console. You can access the console by either right clicking and clicking on "Inspect" or by pressing Ctrl + Shift + I (F12).
