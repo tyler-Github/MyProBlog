@@ -16,7 +16,7 @@ authors: ['SuperProCz']
 ##### Some random small text
 
 Before you read this blog please check my [author page](https://blog.yasifys.tk/author/SuperProCz "Never gonna give you up").
-![SuperProCz's pfp](/static/images/IconSuper.png)
+![SuperProCz's pfp](/static/images/IconSuper.png "Meow")
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
 molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
 numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
