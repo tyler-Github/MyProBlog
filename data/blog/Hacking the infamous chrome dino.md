@@ -11,17 +11,17 @@ authors: ['SuperProCz']
 
 You might have already heard of the chrome dino. It's a simple game about a dino jumping over cacti. And in this blog I will show you how to hack it.
 
-How to access the dino
+# How to access the dino
 Before you can hack the dino, you need to first access it. You can do that by disconnecting from the wifi. Or you can just type [chrome://dino](chrome://dino) into the search bar of chrome.
 
-Opening the console
+# Opening the console
 To hack dino you need to open developer tools and from there access the console. Because every hack i'll show you is only accessible through the console. You can access the console by either right clicking and clicking on "Inspect" or by pressing Ctrl + Shift + I (F12).
 
 
 ![ConsoleDinoChrome](/static/images/ConsoleDinoChrome.png)
 
 
-Setting the speed of the dino
+# Setting the speed of the dino
 Finally you are ready to hack the dino! To make the dino faster just paste this code into the console: 
 
 ```javascript
@@ -30,7 +30,7 @@ Runner.instance_.setSpeed(1000)
 
 You can change the number in the brackets to any number you want. Just remember, higher number means faster dino and at some speed the game would be unplayable!
 
-Making the dino immortal
+# Making the dino immortal
 Yes, you heard it right! You can make the dino immortal!
 
 First we need to save the original gameOver function to a variable:
@@ -51,7 +51,7 @@ Now you are immortal! To get back and be able to lose and save the score we need
 Runner.prototype.gameOver = original
 ```
 
-Setting the score
+# Setting the score
 Your dino is now immortal and fast, but you want to get your score higher. What do you do?
 
 You set the score! To set the score you need this code: 
@@ -62,7 +62,7 @@ Runner.instance_.distanceRan = 12345 / Runner.instance_.distanceMeter.config.COE
 
 You can set the score to any number that is less than 99999.
 
-Changing the jump height
+# Changing the jump height
 Now you have the biggest high score you can get. Now let's have some fun :D
 
 The code: 
