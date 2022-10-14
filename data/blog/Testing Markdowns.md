@@ -31,3 +31,11 @@ sapiente officiis modi at sunt excepturi expedita sint?
 > > > > # I like parrots
 > > > > > # I like rabbits
 > > > > > > # I like everything
+
+```python
+var = "Hello"
+if var == "Hello":
+  print("Hi SuperPro :D")
+else if var == "Bye":
+  print("Bye SuperPro")
+```
