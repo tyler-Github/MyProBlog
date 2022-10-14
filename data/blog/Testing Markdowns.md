@@ -3,7 +3,7 @@ title: 'Testing Markdowns'
 date: '2022-10-14'
 lastmod: '2022-10-14'
 tags: ['Testing', 'SuperProCz', 'Markdown']
-draft: true
+draft: false
 summary: 'Testing markdowns and other things.'
 images:
 authors: ['SuperProCz']
