@@ -75,5 +75,5 @@ The camera isn't moving up and down. So if you set the number to high, it will f
 
 
 <video width="320" height="240" controls>
-  <source src="public/videos/can-you-play-the-chrome-dinosaur-game.forever.mp4" type="video/mp4"></source>
+  <source src="/static/images/can-you-play-the-chrome-dinosaur-game.forever.mp4" type="video/mp4"></source>
 </video>
