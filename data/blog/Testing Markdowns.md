@@ -5,7 +5,7 @@ lastmod: '2022-10-14'
 tags: ['Testing', 'SuperProCz', 'Markdown']
 draft: false
 summary: 'Testing markdowns and other things.'
-images:
+images: ['/static/images/ConsoleDinoChrome.png']
 authors: ['SuperProCz']
 ---
 
