@@ -8,7 +8,7 @@ const ContentSecurityPolicy = `
   script-src 'self' 'unsafe-eval' 'unsafe-inline' giscus.app www.youtube.com blog.yasifys.tk;
   style-src 'self' 'unsafe-inline';
   img-src * blob: data:;
-  media-src 'blog.yasifys.tk';
+  media-src blog.yasifys.tk;
   connect-src *;
   font-src 'self';
   frame-src giscus.app www.youtube.com blog.yasifys.tk
