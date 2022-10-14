@@ -1,6 +1,6 @@
 ---
 name: SuperProCz
-avatar: /static/images/new_pfp.png
+avatar: /static/images/IconSuper.jpg
 occupation: 
 company: 
 twitter: https://twitter.com/
