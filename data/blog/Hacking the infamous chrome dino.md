@@ -2,11 +2,11 @@
 title: 'Hacking the infamous chrome dino'
 date: '2022-10-12'
 lastmod: '2022-10-12'
-tags: ['Chrome', 'RollViral']
+tags: ['Chrome', 'SuperProCz']
 draft: false
 summary: 'How do you hack the Chrome Dino?'
 images: ['/static/images/ConsoleDinoChrome.png']
-authors: ['default']
+authors: ['SuperProCz']
 ---
 
 You might have already heard of the chrome dino. It's a simple game about a dino jumping over cacti. And in this blog I will show you how to hack it.
