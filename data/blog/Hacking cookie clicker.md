@@ -15,7 +15,7 @@ You might have stumbled upon a browser game called [Cookie Clicker](https://orte
 # Accessing the javascript console
 To access the javascript console you need to right click and press "Inspect" or press Ctrl + Shift + I (F12)
 
-!['/static/images/CookieConsole.png' "Opened console"]
+![Opened javascript console]('/static/images/CookieConsole.png' "Opened console")
 
 Now that you are in the console you can start writing some commands.
 
@@ -29,7 +29,7 @@ If you don't know what is the name of the achievement you are looking for. You c
 ```javascript
 Game.Achievements
 ```
-!['/static/images/CookieAchievements.png' "All of the achievements printed out"]
+![All the achievements printed in the console]('/static/images/CookieAchievements.png' "All of the achievements printed out")
 
 # Unlocking every achievement
 It would be boring to type out every achievements name one by one. With the method I showed before. So I created a command that can do that:
