@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Hacking Cookie Clicker'
 date: '2022-10-16'
 lastmod: '2022-10-16'
@@ -21,7 +21,7 @@ Now that you are in the console you can start writing some commands.
 
 # Unlocking any achievement by name
 
-You can get literally **any ** achievement by just typing this simple command into the console:
+You can get literally **any** achievement by just typing this simple command into the console:
 ```javascript
 Game.Win('The achievements name')
 ```
