@@ -46,4 +46,4 @@ Yeah you read that right. You can get infinite cookies!! It's personally my favo
 Game.cookies = Infinity
 ```
 
-That is everything for hacking cookie clicker. If you want to see some hacks for a sifferent browser game, write it into the comments and I might do a blog about it.
+That is everything for hacking cookie clicker. If you want to see some hacks for a different browser game, write it into the comments and I might do a blog about it.
