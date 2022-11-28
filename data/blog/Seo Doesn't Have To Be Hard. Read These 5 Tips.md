@@ -4,7 +4,7 @@ date: '2022-28-11'
 lastmod: '2022-28-11'
 tags: ['Chrome', 'SEO', 'RollViral']
 draft: false
-summary: 'Search engine optimization (SEO) is the process of modifying the content of a website to improve its rank in a search engine result page (SERP). The strategy is used by website owners to improve visibility in web search results, and improve traffic and sales.'
+summary: 'Search engine optimization.'
 images: ['/static/images/2022/November/SeoImage.jpg']
 authors: ['RollViral']
 ---
