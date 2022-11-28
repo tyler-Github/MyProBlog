@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: 'Yasifys',
   description: 'Welcome to Yasifys',
   language: 'en-us',
-  theme: 'system', // system, dark or light
+  theme: 'dark', // system, dark or light
   siteUrl: 'https://blog.yasifys.tk',
   siteRepo: 'https://github.com/tyler-Github/MyProBlog',
   siteLogo: '',
