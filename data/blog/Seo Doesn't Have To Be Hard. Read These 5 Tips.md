@@ -27,3 +27,13 @@ Let's divide our concept into three components to better comprehend the benefits
 We recommend making a copy of, customising, and sharing this presentation on the fundamentals and value of SEO if you are an agency or in-house SEO searching for materials to teach your clients or company stakeholders about search marketing.
 
 # **How does SEO work?**
+
+Crawlers, often known as bots or spiders, are used by search engines like Google and Bing to collect data on all the content they can locate online. Starting from a well-known web page, the crawler tracks both internal links to pages on that particular site and external links to pages on other sites. The crawler can grasp what each website is about and how it is semantically connected to all the other pages in the search engine's enormous database, called an index, thanks to the content on those pages and the context of the connections it followed.
+
+The search engine uses sophisticated algorithms to compile what it considers to be the most accurate and helpful list of results for a user's input into the search box. These natural results may include text-heavy web pages, news articles, pictures, videos, listings for nearby businesses, and other more specialised types of content.
+
+The algorithms used by search engines are made up of a variety of factors, all of which are constantly changing in order to keep up with user behaviour changes and improvements in machine learning.
+
+IMAGE HERE
+
+SEOs design and implement search marketing strategies that incorporate a balance of on-page, off-page, and technological best practises using their knowledge of these ranking variables. An enterprise should adopt a strategy that prioritises user experience, uses non-manipulative ranking techniques, and changes along with search engines' and users' evolving habits if it wants to achieve and sustain high SERP rankings and, as a result, plenty of high-quality user traffic.
