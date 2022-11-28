@@ -25,7 +25,6 @@ const Comments = ({ frontMatter }) => {
   if (!comment || Object.keys(comment).length === 0) return <></>
   return (
     <div id="comment">
-    <!-- Start cookieyes banner --> <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/55563af8433b014e1f3f508d/script.js"></script> <!-- End cookieyes banner -->
       {siteMetadata.comment && siteMetadata.comment.provider === 'giscus' && <GiscusComponent />}
       {siteMetadata.comment && siteMetadata.comment.provider === 'utterances' && (
         <UtterancesComponent />
