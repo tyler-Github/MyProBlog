@@ -20,6 +20,12 @@ const GAScript = () => {
             });
         `}
       </Script>
+      
+        <Script strategy="lazyOnload" id="cookies">
+        {`
+           <!-- Start cookieyes banner --> <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/55563af8433b014e1f3f508d/script.js"></script> <!-- End cookieyes banner -->
+        `}
+      </Script>
     </>
   )
 }
