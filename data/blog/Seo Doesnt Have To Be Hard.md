@@ -6,7 +6,7 @@ tags: ['Chrome', 'SEO', 'RollViral']
 draft: false
 summary: 'Search engine optimization.'
 images: ['/static/images/2022/November/SeoImage.jpg']
-authors: ['RollViral']
+authors: ['default']
 ---
 **What is SEO?**
 
