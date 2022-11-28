@@ -1,4 +1,0 @@
-User-Agent: *
-Allow: /
-
-Sitemap: https://blog.yasifys.tk/sitemap.xml
