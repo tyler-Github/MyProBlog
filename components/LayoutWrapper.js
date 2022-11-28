@@ -27,9 +27,7 @@ const LayoutWrapper = ({ children }) => {
                 )}
               </div>
             </Link>
-          </div>
-<script type="text/javascript" src="https://cookieconsent.popupsmart.com/src/js/popper.js"></script><script> window.start.init({Palette:"palette6",Mode:"banner bottom",Time:"15",})</script>
-  
+          </div>  
           <div className="flex items-center text-base leading-5">
             <div className="hidden sm:block">
               {headerNavLinks.map((link) => (
