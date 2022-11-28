@@ -26,4 +26,4 @@ Let's divide our concept into three components to better comprehend the benefits
 
 We recommend making a copy of, customising, and sharing this presentation on the fundamentals and value of SEO if you are an agency or in-house SEO searching for materials to teach your clients or company stakeholders about search marketing.
 
-#**How does SEO work?**
+# **How does SEO work?**
