@@ -1,7 +1,7 @@
 ---
 title: "Seo Doesn't Have To Be Hard. Read These 5 Tips!"
-date: '2022-28-11'
-lastmod: '2022-28-11'
+date: '2022-11-28'
+lastmod: '2022-11-28'
 tags: ['Chrome', 'SEO', 'RollViral']
 draft: false
 summary: 'Search engine optimization.'
