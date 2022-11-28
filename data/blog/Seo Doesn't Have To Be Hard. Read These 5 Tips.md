@@ -34,6 +34,6 @@ The search engine uses sophisticated algorithms to compile what it considers to 
 
 The algorithms used by search engines are made up of a variety of factors, all of which are constantly changing in order to keep up with user behaviour changes and improvements in machine learning.
 
-IMAGE HERE
+![This is a SEO image!](/static/images/2022/November/SeoLogo.jpg "Seo Image")
 
 SEOs design and implement search marketing strategies that incorporate a balance of on-page, off-page, and technological best practises using their knowledge of these ranking variables. An enterprise should adopt a strategy that prioritises user experience, uses non-manipulative ranking techniques, and changes along with search engines' and users' evolving habits if it wants to achieve and sustain high SERP rankings and, as a result, plenty of high-quality user traffic.
