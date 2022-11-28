@@ -9,6 +9,12 @@ const GAScript = () => {
         strategy="lazyOnload"
         src={`https://www.googletagmanager.com/gtag/js?id=${siteMetadata.analytics.googleAnalyticsId}`}
       />
+      
+       <Script
+        strategy="lazyOnload"
+        src={`https://cdn-cookieyes.com/client_data/55563af8433b014e1f3f508d/script.js`}
+      />
+
 
       <Script strategy="lazyOnload" id="ga-script">
         {`
@@ -20,12 +26,7 @@ const GAScript = () => {
             });
         `}
       </Script>
-      
-        <Script strategy="lazyOnload" id="cookies">
-        {`
-           <!-- Start cookieyes banner --> <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/55563af8433b014e1f3f508d/script.js"></script> <!-- End cookieyes banner -->
-        `}
-      </Script>
+   
     </>
   )
 }
