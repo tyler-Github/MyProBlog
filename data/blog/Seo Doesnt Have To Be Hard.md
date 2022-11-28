@@ -4,7 +4,7 @@ date: '2022-11-28'
 lastmod: '2022-11-28'
 tags: ['Chrome', 'SEO', 'RollViral']
 draft: false
-summary: 'Search engine optimization.'
+summary: "The process of changing a website's content for search engine results is known as search engine optimization (SEO). Owners of websites employ this tactic to raise their websites' visibility in search engine results, increase traffic, and boost sales."
 images: ['/static/images/2022/November/SeoImage.jpg']
 authors: ['default']
 ---
