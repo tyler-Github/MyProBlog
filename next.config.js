@@ -6,7 +6,7 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 const ContentSecurityPolicy = `
   default-src 'self';
   script-src 'self' 'unsafe-eval' 'unsafe-inline' data: cdn-cookieyes.com www.formilla.com giscus.app www.youtube.com blog.yasifys.tk plausible.io scripts.simpleanalyticscdn.com www.googletagmanager.com https://cdn-cookieyes.com;
-  style-src 'self' 'unsafe-inline' data:;
+  style-src 'self' 'unsafe-inline' www.formilla.com data:;
   img-src * blob: data:;
   media-src blog.yasifys.tk;
   connect-src *;
