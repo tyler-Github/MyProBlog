@@ -51,6 +51,7 @@ const siteMetadata = require('../data/siteMetadata')
                 return `
                         <url>
                             <loc>${siteMetadata.siteUrl}${route}</loc>
+                            <changefreq>always</changefreq>
                         </url>
                     `
               })
