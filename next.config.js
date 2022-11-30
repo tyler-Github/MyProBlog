@@ -10,7 +10,7 @@ const ContentSecurityPolicy = `
   img-src * blob: data:;
   media-src blog.yasifys.tk;
   connect-src *;
-  font-src 'self';
+  font-src 'self' www.formilla.com;
   frame-src giscus.app www.youtube.com blog.yasifys.tk plausible.io cdn-cookieyes.com scripts.simpleanalyticscdn.com www.googletagmanager.com https://cdn-cookieyes.com www.formilla.com data:
 `
 
