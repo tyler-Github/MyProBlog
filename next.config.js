@@ -5,7 +5,7 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 // You might need to insert additional domains in script-src if you are using external services
 const ContentSecurityPolicy = `
   default-src 'self';
-  script-src 'self' 'unsafe-eval' 'unsafe-inline' about: code.jquery.com static.cloudflareinsights.com data: www.powr.io cdn-cookieyes.com www.formilla.com giscus.app www.youtube.com blog.yasifys.tk plausible.io scripts.simpleanalyticscdn.com www.googletagmanager.com https://cdn-cookieyes.com;
+  script-src 'self' 'unsafe-eval' 'unsafe-inline' about: challenges.cloudflare.com code.jquery.com static.cloudflareinsights.com data: www.powr.io cdn-cookieyes.com www.formilla.com giscus.app www.youtube.com blog.yasifys.tk plausible.io scripts.simpleanalyticscdn.com www.googletagmanager.com https://cdn-cookieyes.com;
   style-src 'self' 'unsafe-inline' www.formilla.com data: about:;
   img-src * blob: data: about:;
   media-src blog.yasifys.tk about:;
