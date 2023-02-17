@@ -29,6 +29,8 @@ Supposed members of the modern-day Illuminati include politicians, business lead
 
 However, critics argue that there is no evidence to support the existence of such a group. Many supposed members are public figures with no obvious ties to each other, and the idea of a secret cabal controlling world events is implausible.
 
+![Illuminati Picture](/static/images/2022/November/illuminati-pic2.jpg "Another Illuminati Picture")
+
 **Conclusion**
 
 The Illuminati is a complex and controversial topic, and there is no clear answer as to whether it exists or not. While the historical Illuminati was a real organization with a significant impact on European politics and philosophy, the idea of a modern-day Illuminati controlling world events is far from proven.
