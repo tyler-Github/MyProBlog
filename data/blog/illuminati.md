@@ -19,6 +19,8 @@ However, Weishaupt's ambitions for the Illuminati led to the recruitment of memb
 
 Eventually, the Illuminati's secretive nature and radical views on religion and politics drew the attention of the authorities. In 1785, the Bavarian government banned the Illuminati and forced its members to disband.
 
+![Illuminati](/static/images/2022/November/illuminati-pic.jpg "Illuminati Picture")
+
 **Modern-Day Illuminati**
 
 Despite the Illuminati's disbandment over two centuries ago, rumors of a modern-day version of the group still persist. Conspiracy theories suggest that a powerful Illuminati organization controls world events from behind the scenes.
