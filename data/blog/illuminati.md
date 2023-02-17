@@ -1,7 +1,7 @@
 ---
 title: "The Illuminati: What You Need to Know"
-date: '2023-11-29'
-lastmod: '2023-11-29'
+date: '2023-02-17'
+lastmod: '2023-02-17'
 tags: ['Illuminati', 'Conspiracy Theories']
 draft: false
 summary: "The Illuminati is a complex and controversial topic, and there is no simple answer to the question of whether it is real or not. Let's take a closer look at the history and rumors surrounding the Illuminati."
